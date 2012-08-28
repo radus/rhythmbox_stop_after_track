@@ -1,0 +1,14 @@
+rhythmbox_stop_after_track
+==========================
+
+Rhythmbox Stop After Track plugin.
+
+This plugin will add a context menu entry, which you can use to select a track after which the playback will be paused.
+
+To install the plugin, just run the install.sh script. Remember to activate the Stop After Track plugin after restarting Rhythmbox.
+
+If you run into any problems afterwards and you need to remove the plugin,just delete the folder ${HOME}/.local/share/rhythmbox/plugins/stop-after-track
+
+A similar plugin, which will stop playing after the current track, can be found at:
+https://github.com/srijan/StopAfterCurrentTrack-Plugin-for-Rhythmbox
+
