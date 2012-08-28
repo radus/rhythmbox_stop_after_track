@@ -1,0 +1,9 @@
+[Plugin]
+Loader=python
+Module=stop_after_track
+IAge=2
+Name=Stop After Track
+Description=Stop playing after the selected track.
+Authors=Radu Stoica (radumstoica@gmail.com)
+Copyright=This software is absolutely free: as in freedom, love, or beer.
+Website=<insert git page here>
