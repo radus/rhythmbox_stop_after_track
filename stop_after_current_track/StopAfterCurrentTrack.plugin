@@ -1,0 +1,9 @@
+[Plugin]
+Loader=python
+Module=StopAfterCurrentTrack
+IAge=2
+Name=Stop After Current Track
+Description=A plugin which adds a button and menus to stop playback after current track ends.
+Authors=Srijan Choudhary <srijan4@gmail.com>
+Copyright=Copyright © 2012 Srijan Choudhary
+Website=https://github.com/srijan/StopAfterCurrentTrack-Plugin-for-Rhythmbox
