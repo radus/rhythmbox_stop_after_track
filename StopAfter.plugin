@@ -1,0 +1,9 @@
+[Plugin]
+Loader=python
+Module=StopAfter
+IAge=2
+Name=Stop After
+Description=A plugin which adds a button and menus to stop playback when a given track ends.
+Authors=Srijan Choudhary <srijan4@gmail.com>, Radu Stoica (radumstoica@gmail.com), fossfreedom (foss.freedom@gmail.com)
+Copyright=Copyright © 2012 Srijan Choudhary, Radu Stoica
+Website=https://github.com/srijan/StopAfterCurrentTrack-Plugin-for-Rhythmbox

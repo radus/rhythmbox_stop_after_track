@@ -1,9 +1,0 @@
-[Plugin]
-Loader=python
-Module=stop-after-track
-IAge=2
-Name=Stop After Track
-Description=Stop playing after the selected track.
-Authors=Radu Stoica (radumstoica@gmail.com)
-Copyright=This software is absolutely free: as in freedom, love, or beer.
-Website=https://github.com/radus/rhythmbox_stop_after_track
